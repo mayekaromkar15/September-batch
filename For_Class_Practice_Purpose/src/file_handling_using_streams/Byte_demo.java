@@ -13,7 +13,7 @@ public class Byte_demo {
 		BufferedOutputStream bos = null;
 		
 		try {
-			fos = new FileOutputStream("first_try.txt");
+			fos = new FileOutputStream("again.txt");
 			bos = new BufferedOutputStream(fos);
 			
 			

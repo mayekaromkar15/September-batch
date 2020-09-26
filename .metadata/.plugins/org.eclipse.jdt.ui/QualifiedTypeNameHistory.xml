@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="pack1.A"/>
 <fullyQualifiedTypeName name="pack3.TestVisibilityClass.InnerPublic"/>
 <fullyQualifiedTypeName name="pack3.TestVisibilityClass"/>
 <fullyQualifiedTypeName name="pack3.TestVisibilityClass.InnerStatic"/>
@@ -23,4 +22,9 @@
 <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="pack1.Adup"/>
+<fullyQualifiedTypeName name="pack1.A"/>
+<fullyQualifiedTypeName name="pack3.TestInnerMaindup.publicouter"/>
+<fullyQualifiedTypeName name="pack3.TestInnerMaindup"/>
+<fullyQualifiedTypeName name="pack3.TestInnerMaindup.innerstaticclass"/>
 </qualifiedTypeNameHistroy>
